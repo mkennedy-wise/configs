@@ -2,6 +2,7 @@
 
 Before proceeding install homebrew (can be done on either Linux or MacOS now)
 
+0.5. If on mac do this https://github.com/fabiomaia/linuxify to get the linux versions of many common tools.
 1. Alacritty
     1. brew install --cask alacritty
 2. vscode
